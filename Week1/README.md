@@ -107,8 +107,8 @@ Place your files here:
 
 ```
 week1/
- ├── assignment.pdf
- └── cpu_baseline.py   # optional until Week 3
+ ├── assignment1-<name>.pdf
+ └── cpu_baseline-<name>-<task>.py   # optional until Week 3
 ```
 
 
