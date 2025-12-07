@@ -109,7 +109,7 @@ You finish the course with:
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Fork this repository
 2. Ensure access to an NVIDIA GPU (local or cloud)
