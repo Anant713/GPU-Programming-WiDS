@@ -66,6 +66,7 @@ Focus on:
 * How frameworks like PyTorch map operations to hardware
 
 
+
 ### **Week 1 Assignment (Summary)**
 
 This week’s assignment focuses on **analyzing a workload** you may want to accelerate later in the course and understanding how it fits into the GPU execution model. You will not write CUDA code yet.
